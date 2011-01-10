@@ -90,9 +90,8 @@ div#footer {
 	font-style: normal;
 	font-weight: 300;
 }
-div#video {
+div.video {
 	width: 600px;
 	height: 338px;
-	background-color: #00d13d;
 	margin: 21px 0 40px;
 }
