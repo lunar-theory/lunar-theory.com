@@ -37,7 +37,7 @@ div#header {
 }
 div#content {
 	margin: 0;
-	padding: 0 158px 0 202px;
+	padding: 0 138px 0 182px;
 	font-weight: 100;
 }
 div#footer {
@@ -91,7 +91,7 @@ div#footer {
 	font-weight: 300;
 }
 div.video {
-	width: 600px;
+	width: 640px;
 	height: 338px;
 	margin: 21px 0 40px;
 }
